@@ -62,8 +62,8 @@
   group: '_Khusus Group 😏_',
   private: '_Khusus Private Chat_',
   bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '*_Tunggu Permintaanmu Sedang Diproses_*',
-  done: '*_Done Kack✅_*',
+  wait: '*_```「▰▰▰▱▱▱▱▱▱▱」𝗟𝗼𝗮𝗱𝗶𝗻𝗴...```_*',
+  done: '*_Nih Kack(ᗒᗩᗕ)_*',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
